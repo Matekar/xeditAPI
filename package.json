@@ -1,0 +1,17 @@
+{
+  "name": "xedit",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@happy-dom/global-registrator": "^14.12.0",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/xmldom": "^0.1.34",
+    "xmldom": "^0.6.0",
+    "xpath": "^0.0.34"
+  }
+}
